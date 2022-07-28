@@ -9,7 +9,7 @@ Author URL: http://w3layouts.com
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Wildlive Animals Category Bootstrap Responsive Web Template | Home :: W3Layouts </title>
+  <title>BAOCAODTDM </title>
   <link href="//fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap"
     rel="stylesheet">
   <!-- Template CSS -->
@@ -22,7 +22,7 @@ Author URL: http://w3layouts.com
     <div class="container">
       <nav class="navbar navbar-expand-lg stroke px-0">
         <h1> <a class="navbar-brand" href="index.html">
-            Wild<span class="sublog">live.</span>
+            Báo<span class="sublog">Cáo</span>
           </a></h1>
         <!-- if logo is image enable this   
   <a class="navbar-brand" href="#index.html">
@@ -38,16 +38,16 @@ Author URL: http://w3layouts.com
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
           <ul class="navbar-nav mx-lg-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="index.html">Trang Chủ <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
+              <a class="nav-link" href="about.html">Giới Thiệu</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="services.html">Services</a>
+              <a class="nav-link" href="services.html">Dịch Vụ</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact</a>
+              <a class="nav-link" href="contact.html">Liên Hệ</a>
             </li>
             <li class="nav-item mr-lg-3 mr-4" title="Search"><a href="#search" class="search-btn">
                 <span class="fa fa-search" aria-hidden="true"></span></a></li>
@@ -57,7 +57,7 @@ Author URL: http://w3layouts.com
               <div class="popup">
                 <form action="#" method="GET" class="w3l-hnyform d-sm-flex">
                   <input type="search" placeholder="Search.." name="search" required="required" autofocus>
-                  <button type="submit">Search</button>
+                  <button type="submit">Tìm Kiếm</button>
                   <a class="close" href="#url">&times;</a>
                 </form>
               </div>
@@ -96,14 +96,13 @@ Author URL: http://w3layouts.com
                 <div class="container">
 
                   <div class="banner-info-bg">
-                    <h5>Protect wildlife, protect nature. </h5>
-                    <p class="mt-md-4 mt-3">Lorem ipsum dolor sit amet consectetur ipsum elit. Qui eligendi vitae sit.Ea
-                      ipsum sed consequuntur illum facere.
+                    <h5>Bảo Vệ Động Vật Hoang Dã, Bảo Vệ Thiên Nhiên </h5>
+                    <p class="mt-md-4 mt-3">Chúng tôi rất vui khi được mọi người theo dõi và lựa chọn
                     </p>
-                    <a class="btn btn-style btn-white mt-sm-5 mt-4 mr-2" href="#read"> Discover Now
+                    <a class="btn btn-style btn-white mt-sm-5 mt-4 mr-2" href="#read"> Khám Phá Ngay
                     </a>
                     <a class="btn btn-style btn-outline-light mt-sm-5 mt-4 mr-2" href="about.html">
-                      Read More</a>
+                      Xem Thêm</a>
                   </div>
 
 
@@ -118,14 +117,13 @@ Author URL: http://w3layouts.com
               <div class="banner-info">
                 <div class="container">
                   <div class="banner-info-bg">
-                    <h5>Save wildlife and wildlife will save you. </h5>
-                    <p class="mt-md-4 mt-3">Lorem ipsum dolor sit amet consectetur ipsum elit. Qui eligendi vitae sit.Ea
-                      ipsum sed consequuntur illum facere.
+                    <h5>Bảo Vệ Động Vật Hoang Dã, Bảo Vệ Thiên Nhiên </h5>
+                    <p class="mt-md-4 mt-3">Chúng tôi rất vui khi được mọi người theo dõi và lựa chọn
                     </p>
-                    <a class="btn btn-style btn-white mt-sm-5 mt-4 mr-2" href="#read"> Discover Now
+                    <a class="btn btn-style btn-white mt-sm-5 mt-4 mr-2" href="#read"> Khám Phá Ngay
                     </a>
                     <a class="btn btn-style btn-outline-light mt-sm-5 mt-4 mr-2" href="about.html">
-                      Read More</a>
+                    Xem Thêm</a>
                   </div>
                 </div>
               </div>
@@ -138,14 +136,13 @@ Author URL: http://w3layouts.com
               <div class="banner-info">
                 <div class="container">
                   <div class="banner-info-bg">
-                    <h5>Protect wildlife, protect nature.</h5>
-                    <p class="mt-md-4 mt-3">Lorem ipsum dolor sit amet consectetur ipsum elit. Qui eligendi vitae sit.Ea
-                      ipsum sed consequuntur illum facere.
+                    <h5>Bảo Vệ Động Vật Hoang Dã, Bảo Vệ Thiên Nhiên</h5>
+                    <p class="mt-md-4 mt-3">Chúng tôi rất vui khi được mọi người theo dõi và lựa chọn
                     </p>
-                    <a class="btn btn-style btn-white mt-sm-5 mt-4 mr-2" href="#read"> Discover Now
+                    <a class="btn btn-style btn-white mt-sm-5 mt-4 mr-2" href="#read"> Khám Phá Ngay
                     </a>
                     <a class="btn btn-style btn-outline-light mt-sm-5 mt-4 mr-2" href="about.html">
-                      Read More</a>
+                    Xem Thêm</a>
                   </div>
                 </div>
               </div>
@@ -158,14 +155,13 @@ Author URL: http://w3layouts.com
               <div class="banner-info">
                 <div class="container">
                   <div class="banner-info-bg">
-                    <h5>Save wildlife and wildlife will save you.</h5>
-                    <p class="mt-md-4 mt-3">Lorem ipsum dolor sit amet consectetur ipsum elit. Qui eligendi vitae sit.Ea
-                      ipsum sed consequuntur illum facere.
+                    <h5>Bảo Vệ Động Vật Hoang Dã, Bảo Vệ Thiên Nhiên</h5>
+                    <p class="mt-md-4 mt-3">Chúng tôi rất vui khi được mọi người theo dõi và lựa chọn
                     </p>
-                    <a class="btn btn-style btn-white mt-sm-5 mt-4 mr-2" href="#read"> Discover Now
+                    <a class="btn btn-style btn-white mt-sm-5 mt-4 mr-2" href="#read"> Khám Phá Ngay
                     </a>
                     <a class="btn btn-style btn-outline-light mt-sm-5 mt-4 mr-2" href="about.html">
-                      Read More</a>
+                    Xem Thêm</a>
                   </div>
                 </div>
               </div>
@@ -187,11 +183,11 @@ Author URL: http://w3layouts.com
                 <span class="fa fa-users"></span>
               </div>
               <div class="info">
-                <p>Protect</p>
-                <h4><a href="#url">Qualified Team</a></h4>
+                <p>Bảo Vệ</p>
+                <h4><a href="#url">Đội Ngũ Bảo Vệ</a></h4>
               </div>
             </div>
-            <p class="mt-3">Lorem ipsum dolor sit amet consectetur ipsum elit. Qui eligendi vitae sit.</p>
+            <p class="mt-3">Chúng tôi rất vui khi được mọi người theo dõi và lựa chọn</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 mt-md-0 mt-4">
@@ -201,12 +197,12 @@ Author URL: http://w3layouts.com
                 <span class="fa fa-shield"></span>
               </div>
               <div class="info">
-                <p>Help</p>
-                <h4><a href="#url">Saved Species</a></h4>
+                <p>Hỗ Trợ</p>
+                <h4><a href="#url">Các loài được hỗ trợ</a></h4>
 
               </div>
             </div>
-            <p class="mt-3">Lorem ipsum dolor sit amet consectetur ipsum elit. Qui eligendi vitae sit.</p>
+            <p class="mt-3">Chúng tôi rất vui khi được mọi người theo dõi và lựa chọn</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 mt-lg-0 mt-4">
@@ -216,12 +212,12 @@ Author URL: http://w3layouts.com
                 <span class="fa fa-globe"></span>
               </div>
               <div class="info">
-                <p>World</p>
-                <h4><a href="#url">Global Work</a></h4>
+                <p>Thế Giới</p>
+                <h4><a href="#url">Công Việc Toàn Cầu</a></h4>
 
               </div>
             </div>
-            <p class="mt-3">Lorem ipsum dolor sit amet consectetur ipsum elit. Qui eligendi vitae sit.</p>
+            <p class="mt-3">Chúng tôi rất vui khi được mọi người theo dõi và lựa chọn</p>
           </div>
         </div>
       </div>
@@ -234,13 +230,10 @@ Author URL: http://w3layouts.com
       <div class="container py-lg-5 py-md-3">
         <div class="row">
           <div class="col-lg-7 mb-lg-0 mb-md-5 mb-4 align-self">
-            <h6 class="title-subhny">Save Us</h6>
-            <h3 class="title-left mx-0">Don't shoot us with Guns, shoot us with cameras.</h3>
-            <p class="mt-md-4 mt-3">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
-              ultrices in ligula. Semper at tempufddfel. Lorem ipsum dolor sit amet
-              elit. Non quae, fugiat nihil ad. Lorem ipsum dolor sit amet. Lorem ipsum init
-              dolor sit, amet elit. Dolor ipsum non velit, culpa! Vivamus a et ut justo, init in dolor et.</p>
-            <a class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2" href="about.html"> Read More</a>
+            <h6 class="title-subhny">Giúp Chúng Tôi</h6>
+            <h3 class="title-left mx-0">Đừng bắn chúng tôi bằng Súng, hãy bắn chúng tôi bằng máy ảnh.</h3>
+            <p class="mt-md-4 mt-3">Chào mừng đến với phim hoạt hình feugiat. Họ giúp bạn tự do giống như bóng rổ trong giải đấu. Luôn luôn ở tempufddfel. Khách hàng rất thông minh. Dù thế nào đi nữa, hãy để anh ta chạy trốn khỏi hư không. Khách hàng rất hạnh phúc. Đau mông lắm, sướng lắm. Bản thân đau không muốn, lỗi! Chúng ta sống từ và chỉ, nó đi vào đau đớn và.</p>
+            <a class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2" href="about.html"> Xem Thêm</a>
           </div>
           <div class="col-lg-5 mt-lg-0 mt-4">
             <div class="position-relative">
@@ -263,20 +256,17 @@ Author URL: http://w3layouts.com
             </div>
           </div>
           <div class="col-lg-6 mt-lg-0 mt-5 pl-lg-5 align-self">
-            <h6 class="title-subhny">Our Story</h6>
-            <h3 class="title-w3l">About Wildlive</h3>
-            <p class="mt-4">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
-              ultrices in ligula. Semper at tempufddfel. Learn more about our work!
-              Lorem ipsum viverra feugiat.
+            <h6 class="title-subhny">Câu Truyện Của Chúng Tôi</h6>
+            <h3 class="title-w3l">Giới Thiệu Về Chúng Tôi</h3>
+            <p class="mt-4">Chào mừng đến với phim hoạt hình feugiat. Họ giúp bạn tự do giống như bóng rổ trong giải đấu. Luôn luôn ở tempufddfel. Tìm hiểu thêm về công việc của chúng tôi! Chào mừng đến với phim hoạt hình feugiat.
             </p>
-            <p class="mt-3">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
-              ultrices in ligula. Semper at tempufddfel.</p>
+            <p class="mt-3">Chào mừng đến với phim hoạt hình feugiat. Họ giúp bạn tự do giống như bóng rổ trong giải đấu. Luôn luôn ở tempufddfel.</p>
             <ul class="w3l-right-book mt-4">
-              <li><span class="fa fa-check" aria-hidden="true"></span>Pellen tesque libero ut justo</li>
-              <li><span class="fa fa-check" aria-hidden="true"></span>Lorem ipsum dolor sit amet elit</li>
-              <li><span class="fa fa-check" aria-hidden="true"></span>Pellen tesque libero ut justo</li>
+              <li><span class="fa fa-check" aria-hidden="true"></span>Họ sẽ đưa bạn đi miễn phí như bạn vừa làm</li>
+              <li><span class="fa fa-check" aria-hidden="true"></span>Khách hàng là chính khách hàng</li>
+              <li><span class="fa fa-check" aria-hidden="true"></span>Họ sẽ đưa bạn đi miễn phí như bạn vừa làm</li>
             </ul>
-            <a href="about.html" class="btn btn-style btn-primary mt-4">Read More</a>
+            <a href="about.html" class="btn btn-style btn-primary mt-4">Xem Thêm</a>
           </div>
         </div>
       </div>
@@ -287,15 +277,13 @@ Author URL: http://w3layouts.com
     <div class="container py-lg-5 py-md-4 py-2">
       <div class="row bottom-ab-grids">
         <div class="col-lg-6 bottom-ab-left align-self">
-          <span class="title-subhny mb-2">Wildlive</span>
-          <h3 class="title-w3l mb-4">Help make this world a fairer place for all animals.</h3>
-          <p class="">Lorem ipsum dolor sit amet elit. hic odio tenetur. ante ipsum primis in
-            faucibus orci luctus et ultrices posuere cubilia acere aperiam sequi optio consectetur adipisicing
-            dolor et amet. </p>
+          <span class="title-subhny mb-2">Báo Cáo Điện Toán Đám Mây</span>
+          <h3 class="title-w3l mb-4">Giúp làm cho thế giới này trở thành một nơi công bằng hơn cho tất cả các loài động vật.</h3>
+          <p class="">Khách hàng là chính khách hàng. Anh ta bị giam giữ trong lòng căm thù ở đây. trước anh ta, trước hết, trong cổ họng của bệnh nhân, tôi sẽ mở ra giường của đau buồn và tức giận, và lựa chọn tiếp theo sẽ là đau đớn và đau khổ. </p>
           <ul class="cont-4 mt-4">
-            <li><span class="fa fa-check"></span>Pellen tesque libero ut justo</li>
-            <li><span class="fa fa-check"></span>Lorem ipsum dolor sit amet elit</li>
-            <li><span class="fa fa-check"></span>Pellen tesque libero ut justo</li>
+            <li><span class="fa fa-check"></span>Họ sẽ đưa bạn đi miễn phí như bạn vừa làm</li>
+            <li><span class="fa fa-check"></span>Khách hàng là chính khách hàng</li>
+            <li><span class="fa fa-check"></span>Họ sẽ đưa bạn đi miễn phí như bạn vừa làm</li>
           </ul>
         </div>
         <div class="col-lg-6 bottom-right-grids pl-lg-5 mt-lg-0 mt-5">
